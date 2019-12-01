@@ -66,7 +66,15 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Prettier](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/prettier.md)
 
+- [React Native Gesture Handler](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-gesture-handler.md)
+
+- [React Navigation](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-navigation.md)
+
 - [react-native-cli](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-cli.md)
+
+- [react-native-reanimated](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-reanimated.md)
+
+- [react-native-screens](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-native-screens.md)
 
 ### APIs
 
