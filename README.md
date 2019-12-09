@@ -82,6 +82,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [React Navigation](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-navigation.md)
 
+- [React Navigation Stack](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-navigation-stack.md)
+
 - [React Navigation Tabs](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-navigation-tabs.md)
 
 - [React Redux](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-redux.md)
