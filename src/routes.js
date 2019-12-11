@@ -65,6 +65,11 @@ export default (signedIn = false) =>
               inactiveTintColor: 'rgba(255, 255, 255, 0.6)',
               style: {
                 backgroundColor: '#8d41a8',
+                height: 80,
+                paddingTop: 15,
+              },
+              labelStyle: {
+                marginBottom: 20,
               },
             },
           }

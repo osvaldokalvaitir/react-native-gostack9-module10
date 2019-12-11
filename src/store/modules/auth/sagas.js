@@ -2,8 +2,9 @@ import { Alert } from 'react-native';
 import { takeLatest, call, put, all /* , delay */ } from 'redux-saga/effects';
 
 import api from '~/services/api';
+import NavigationService from '~/services/navigation';
 
-import { signInSuccess, signFailure } from './actions';
+import { signInSuccess, signUpSuccess, signFailure } from './actions';
 
 export function* signIn({ payload }) {
   try {
@@ -50,6 +51,9 @@ export function* signUp({ payload }) {
       password,
     });
 
+    yield put(signUpSuccess());
+
+    NavigationService.navigate('SignIn');
     // history.push('/');
   } catch (err) {
     Alert.alert(
