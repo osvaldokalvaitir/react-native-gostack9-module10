@@ -10,11 +10,22 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação GoBarber consumindo os recursos da API do [Node - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/node-modulo3-novo).
+
+Aplicação GoBarber usando Redux, Redux-Saga, Redux Persist, date-fns, React Navigation, React Navigation Stack, React Navigation Tabs, Immer, React Native Async Storage, React Native Vector Icons e react-native-linear-gradient consumindo os recursos da API do [Node - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/node-modulo3-novo).
 
 ## Índice
 
 - [Capturas de Tela](#capturas-de-tela)
+
+  - [Login](#login)
+
+  - [Cadastro](#cadastro)
+
+  - [Dashboard](#dashboard)
+
+  - [Agendar](#agendar)
+
+  - [Perfil](#perfil)
 
 - [Desenvolvimento](#desenvolvimento)
 
@@ -33,6 +44,39 @@ Aplicação GoBarber consumindo os recursos da API do [Node - Módulo 3 (Novo)](
   - [Ferramentas](#ferramentas)
 
 ## Capturas de Tela
+
+## Capturas de Tela
+
+### Login
+
+![SignIn](/assets/signin.png)
+Esta é a primeira tela, onde o usuário precisa realizar o login para entrar no sistema, podendo também criar uma conta gratuita.
+
+### Cadastro
+
+![SignUp](/assets/signup.png)
+Nesta tela, é necessário o usuário preencher os campos para criar uma conta no sistema.
+
+### Dashboard
+
+![Dashboard](/assets/dashboard.png)
+No dashboard, encontram-se todos os agendamentos do usuário vindos da API.
+
+### Agendar
+
+![New - Select Provider](/assets/new_provider.png)
+Ao clicar em 'Agendar', esta é a primeira tela onde é necessário selecionar o prestador de serviços.
+
+![New - Select Datetime](/assets/new_datetime.png)
+Nesta tela, é necessário escolher uma data e selecionar o horário livre desejado.
+
+![New - Confirm](/assets/new_confirm.png)
+Neste último passo, só é necessário confirmar o agendamento.
+
+### Perfil
+
+![Profile](/assets/profile.png)
+Neste tela, estão todos os dados do usuário podendo alterá-los e também sair do sistema.
 
 ## Desenvolvimento
 
@@ -116,4 +160,29 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
   - **Rotas**
 
+    - Prestadores de serviços
+
+      - Lista todos os prestadores de serviços
+
+    - Compromissos
+
+      - Lista todos os compromissos
+      - Adiciona novos compromissos
+      - Cancela compromissos existentes
+
+    - Disponíveis
+
+      - Lista todos os horários disponíveis ou não de um prestador e de uma data
+
+    - Usuários
+
+      - Adiciona novos usuários
+      - Edita dados de usuários existentes
+
+    - Sessões
+
+      - Adiciona novas sessões
+
 ### Ferramentas
+
+- [Reactotron](https://github.com/osvaldokalvaitir/projects-settings/blob/master/inspector/reactotron.md)
