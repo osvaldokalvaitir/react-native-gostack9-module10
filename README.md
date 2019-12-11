@@ -45,8 +45,6 @@ Aplicação GoBarber usando Redux, Redux-Saga, Redux Persist, date-fns, React Na
 
 ## Capturas de Tela
 
-## Capturas de Tela
-
 ### Login
 
 ![SignIn](/assets/signin.png)
@@ -68,7 +66,7 @@ No dashboard, encontram-se todos os agendamentos do usuário vindos da API.
 Ao clicar em 'Agendar', esta é a primeira tela onde é necessário selecionar o prestador de serviços.
 
 ![New - Select Datetime](/assets/new_datetime.png)
-Nesta tela, é necessário escolher uma data e selecionar o horário livre desejado.
+Nesta próxima tela, é necessário escolher uma data e selecionar o horário livre desejado.
 
 ![New - Confirm](/assets/new_confirm.png)
 Neste último passo, só é necessário confirmar o agendamento.
