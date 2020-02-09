@@ -47,33 +47,33 @@ Aplicação GoBarber usando Redux, Redux-Saga, Redux Persist, date-fns, React Na
 
 ### Login
 
-![SignIn](/assets/signin.png)
+![SignIn](/.github/assets/signin.png)
 Esta é a primeira tela, onde o usuário precisa realizar o login para entrar no sistema, podendo também criar uma conta gratuita.
 
 ### Cadastro
 
-![SignUp](/assets/signup.png)
+![SignUp](/.github/assets/signup.png)
 Nesta tela, é necessário o usuário preencher os campos para criar uma conta no sistema.
 
 ### Dashboard
 
-![Dashboard](/assets/dashboard.png)
+![Dashboard](/.github/assets/dashboard.png)
 No dashboard, encontram-se todos os agendamentos do usuário vindos da API.
 
 ### Agendar
 
-![New - Select Provider](/assets/new_provider.png)
+![New - Select Provider](/.github/assets/new_provider.png)
 Ao clicar em 'Agendar', esta é a primeira tela onde é necessário selecionar o prestador de serviços.
 
-![New - Select Datetime](/assets/new_datetime.png)
+![New - Select Datetime](/.github/assets/new_datetime.png)
 Nesta próxima tela, é necessário escolher uma data e selecionar o horário livre desejado.
 
-![New - Confirm](/assets/new_confirm.png)
+![New - Confirm](/.github/assets/new_confirm.png)
 Neste último passo, só é necessário confirmar o agendamento.
 
 ### Perfil
 
-![Profile](/assets/profile.png)
+![Profile](/.github/assets/profile.png)
 Neste tela, estão todos os dados do usuário podendo alterá-los e também sair do sistema.
 
 ## Desenvolvimento
