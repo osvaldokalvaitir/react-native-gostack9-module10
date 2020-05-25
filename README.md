@@ -11,7 +11,7 @@
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 
-Aplicação GoBarber usando Redux, Redux-Saga, Redux Persist, date-fns, React Navigation, React Navigation Stack, React Navigation Tabs, Immer, React Native Async Storage, React Native Vector Icons e react-native-linear-gradient consumindo os recursos da API do [Node.js - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/node.js-modulo3-novo).
+Aplicação GoBarber usando Redux, Redux-Saga, Redux Persist, date-fns, React Navigation, React Navigation Stack, React Navigation Tabs, Immer, React Native Async Storage, React Native Vector Icons e react-native-linear-gradient consumindo os recursos da API do [Node.js - Módulo 3 (Novo)](https://github.com/osvaldokalvaitir/nodejs-modulo3-novo).
 
 ## Índice
 
