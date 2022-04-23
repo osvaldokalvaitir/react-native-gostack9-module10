@@ -34,7 +34,7 @@
 
 ## :wrench: Install and run
 
-_ps: Before running the app, start the [Node.js - GoStack 9 Module 3 API](https://github.com/osvaldokalvaitir/nodejs-gostack9-module3) backend_
+_ps: Before running the app, start the [Node.js - GoStack 9 Module 3 API](https://github.com/osvaldokalvaitir/nodejs-gostack9-module3) backend._
 
 Open terminal:
 
